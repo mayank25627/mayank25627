@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayank Sahu</h1>
 <h3 align="center">A passionate Full Stack Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611063b241474378a612d7ddb57827ede76981e0d3b&rid=giphy.gif&ct=g" >
+<!-- <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b7611063b241474378a612d7ddb57827ede76981e0d3b&rid=giphy.gif&ct=g" > -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank25627&label=Profile%20views&color=0e75b6&style=flat" alt="mayank25627" /> </p>
 
@@ -26,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayank25627&show_icons=true&locale=en&layout=compact" alt="mayank25627" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank25627&show_icons=true&locale=en" alt="mayank25627" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayank25627&show_icons=true&locale=en" alt="mayank25627" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayank25627&" alt="mayank25627" /></p>
