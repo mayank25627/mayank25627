@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sahu25627@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JMIa2C4UL43GAbIdQ_iRpSnAdx3AuvZ_/view?usp=share_link](https://drive.google.com/file/d/1JMIa2C4UL43GAbIdQ_iRpSnAdx3AuvZ_/view?usp=share_link)
+- 📄 Know about my experiences [shorturl.at/ADFO2](shorturl.at/ADFO2)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
