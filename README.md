@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank25627&label=Profile%20views&color=0e75b6&style=flat" alt="mayank25627" /> </p>
 
-- 🌱 I’m currently learning **React, Nodejs, Expressjs**
+- 🌱 I’m currently learning **Nodejs, Expressjs**
 
-- 💬 Ask me about **JavaScript, Java**
+- 💬 Ask me about **JavaScript, React Js, Tailwind css, Java**
 
 - 📫 How to reach me **sahu25627@gmail.com**
 
