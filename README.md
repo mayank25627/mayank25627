@@ -5,13 +5,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayank25627&label=Profile%20views&color=0e75b6&style=flat" alt="mayank25627" /> </p>
 
-- 🌱 I’m currently learning **Nodejs, Expressjs**
+- 🌱 I’m currently learning **AWS, Big Data, PySpark, Cloud**
 
-- 💬 Ask me about **JavaScript, React Js, Tailwind css, Java**
+- 💬 Ask me about **Java, Spring Boot, Python, Flask, FastAPI, JavaScript, React JS**
 
 - 📫 How to reach me **sahu25627@gmail.com**
 
-- 📄 Know about my experiences **https://shorturl.at/ADFO2**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
